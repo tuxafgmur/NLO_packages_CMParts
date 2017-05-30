@@ -445,7 +445,6 @@
   <string name="anonymous_statistics_warning">Optar polo envío de estatísticas LineageOS permitirá que se transmitan datos non personais aos desenvolvedores de LineageOS para rastrear intalacións únicas através dos dispositivos. Os datos transmitidos teñen un identificador único, que non compromete a súa privacidade ou datos persoais. Os datos serán enviados cada vez que se inicie.\n\nPara ver un exemplo dos datos van ser enviados, toque en Previsualizar datos.</string>
   <string name="enable_reporting_title">Activar envío de estatísticas</string>
   <string name="preview_data_title">Previsualizar datos</string>
-  <string name="view_stats_title">Ver as estatísticas</string>
   <string name="anonymous_learn_more">Saber máis</string>
   <!-- Anonymous Statistics - Preview -->
   <string name="preview_id_title">Identificador único</string>
@@ -453,8 +452,6 @@
   <string name="preview_version_title">Versión</string>
   <string name="preview_country_title">País</string>
   <string name="preview_carrier_title">Operadora móvil</string>
-  <string name="stats_collection_title">Recollida de estatísticas</string>
-  <string name="stats_collection_summary">Permitir a recollida de métricas e estatísticas do dispositivo</string>
   <!-- Display : Rotation  -->
   <string name="accelerometer_title">Pantalla de rotación automática</string>
   <string name="display_rotation_title">Axustes de rotación</string>

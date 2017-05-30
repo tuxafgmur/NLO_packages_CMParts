@@ -445,7 +445,6 @@
   <string name="anonymous_statistics_warning">Memilih ikut dalam Statistik LineageOS akan memungkinkan data tidak pribadi dikirimkan kepada para pengembang LineageOS untuk dilacak instalasi unik pada berbagai macam perangkat. Informasi yang dikirimkan berisi pengenal unik, dan tidak membahayakan privasi atau data pribadi Anda. Data dikirim setiap kali perangkat di mulai ulang.\n\nUntuk melihat contoh data yang akan dikirim, ketuk Pratinjau Data.</string>
   <string name="enable_reporting_title">Aktifkan laporan</string>
   <string name="preview_data_title">Pratinjau data</string>
-  <string name="view_stats_title">Lihat statistik</string>
   <string name="anonymous_learn_more">Pelajari selengkapnya</string>
   <!-- Anonymous Statistics - Preview -->
   <string name="preview_id_title">ID unik</string>
@@ -453,8 +452,6 @@
   <string name="preview_version_title">Versi</string>
   <string name="preview_country_title">Negara</string>
   <string name="preview_carrier_title">Operator</string>
-  <string name="stats_collection_title">Kumpulan statistik</string>
-  <string name="stats_collection_summary">Izinkan metrik pemasangan dan statistik perangkat untuk dikumpulkan</string>
   <!-- Display : Rotation  -->
   <string name="accelerometer_title">Rotasi otomatis</string>
   <string name="display_rotation_title">Setelan rotasi</string>

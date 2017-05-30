@@ -449,7 +449,6 @@
         των δεδομένων που αποστέλλονται, πατήστε στην Προεπισκόπηση δεδομένων.</string>
   <string name="enable_reporting_title">Ενεργοποίηση αναφοράς</string>
   <string name="preview_data_title">Προεπισκόπηση δεδομένων</string>
-  <string name="view_stats_title">Εμφάνιση στατιστικών</string>
   <string name="anonymous_learn_more">Μάθετε περισσότερα</string>
   <!-- Anonymous Statistics - Preview -->
   <string name="preview_id_title">Μοναδικό αναγνωριστικό</string>
@@ -457,8 +456,6 @@
   <string name="preview_version_title">Έκδοση</string>
   <string name="preview_country_title">Χώρα</string>
   <string name="preview_carrier_title">Πάροχος</string>
-  <string name="stats_collection_title">Συλλογή στατιστικών</string>
-  <string name="stats_collection_summary">Να επιτρέπεται η συλλογή στατιστικών στοιχείων συσκευής</string>
   <!-- Display : Rotation  -->
   <string name="accelerometer_title">Αυτόματη περιστροφή οθόνης</string>
   <string name="display_rotation_title">Ρυθμίσεις περιστροφής</string>

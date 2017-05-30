@@ -447,7 +447,6 @@
         care nu vă compromite intimitatea sau datele personale. Datele sunt trimise la fiecare pornire a dispozitivului.\n\nPentru a vedea un exemplu de date ce se trimit, apăsați pe Previzualizare Date.</string>
   <string name="enable_reporting_title">Activare raportare</string>
   <string name="preview_data_title">Previzualizare date</string>
-  <string name="view_stats_title">Vedeți statistici</string>
   <string name="anonymous_learn_more">Aflați mai multe</string>
   <!-- Anonymous Statistics - Preview -->
   <string name="preview_id_title">ID unic</string>
@@ -455,8 +454,6 @@
   <string name="preview_version_title">Versiune</string>
   <string name="preview_country_title">Țară</string>
   <string name="preview_carrier_title">Operator</string>
-  <string name="stats_collection_title">Colectarea de statistici</string>
-  <string name="stats_collection_summary">Permiteți ca măsurătorile instalării și statisticile dispozitivului să fie colectate</string>
   <!-- Display : Rotation  -->
   <string name="accelerometer_title">Rotire automată a ecranului</string>
   <string name="display_rotation_title">Setări de rotaţie</string>

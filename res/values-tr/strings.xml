@@ -445,7 +445,6 @@
   <string name="anonymous_statistics_warning">LineageOS İstatistiklerine dahil olmak kişisel olmayan verilerin LineageOS geliştiricilerine cihazlar arasındaki benzersiz yüklemeleri takip etmeleri için gönderilmesine izin verir. Bu bilgi, kişisel bilgi içermeyen ve gizliliğinizi tehdit etmeyen bir benzersiz numara da içerir. Veri her başlangıçta gönderilir.\n\nGönderilecek verinin örneğini görmek için Veriyi Önizle butonunu kullanın.</string>
   <string name="enable_reporting_title">Raporlamayı etkinleştir</string>
   <string name="preview_data_title">Veriyi önizle</string>
-  <string name="view_stats_title">İstatistikleri görüntüle</string>
   <string name="anonymous_learn_more">Fazlasını öğren</string>
   <!-- Anonymous Statistics - Preview -->
   <string name="preview_id_title">Benzersiz ID</string>
@@ -453,8 +452,6 @@
   <string name="preview_version_title">Sürüm</string>
   <string name="preview_country_title">Ülke</string>
   <string name="preview_carrier_title">Operatör</string>
-  <string name="stats_collection_title">İstatistikler</string>
-  <string name="stats_collection_summary">Yükleme ölçevlerinin ve cihaz istatistiklerinin toplanmasına izin ver</string>
   <!-- Display : Rotation  -->
   <string name="accelerometer_title">Ekranı otomatik döndür</string>
   <string name="display_rotation_title">Döndürme ayarları</string>

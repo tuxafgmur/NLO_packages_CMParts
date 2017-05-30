@@ -421,7 +421,6 @@
   <string name="anonymous_statistics_title">LineageOS статистика</string>
   <string name="enable_reporting_title">Омогући извештавање</string>
   <string name="preview_data_title">Преглед података</string>
-  <string name="view_stats_title">Прикажи статистику</string>
   <string name="anonymous_learn_more">Сазнај више</string>
   <!-- Anonymous Statistics - Preview -->
   <string name="preview_id_title">Јединствени ID</string>
@@ -429,7 +428,6 @@
   <string name="preview_version_title">Верзија</string>
   <string name="preview_country_title">Држава</string>
   <string name="preview_carrier_title">Оператер</string>
-  <string name="stats_collection_title">Прикупљање статистике</string>
   <!-- Display : Rotation  -->
   <string name="display_rotation_title">Поставке ротације</string>
   <string name="display_rotation_unit">степени</string>

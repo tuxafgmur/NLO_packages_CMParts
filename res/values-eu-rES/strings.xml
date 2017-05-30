@@ -446,7 +446,6 @@
 Informazio hau gailuaren abio bakoitzean bidaltzen da.\n\nBidalitako informazioaren adibide bat ikusteko, sakatu Aurreikusi datuak.</string>
   <string name="enable_reporting_title">Gaitu txosten bidalketa</string>
   <string name="preview_data_title">Aurreikusi datuak</string>
-  <string name="view_stats_title">Ikusi estatistikak</string>
   <string name="anonymous_learn_more">Ikasi gehiago</string>
   <!-- Anonymous Statistics - Preview -->
   <string name="preview_id_title">ID esklusiboa</string>
@@ -454,8 +453,6 @@ Informazio hau gailuaren abio bakoitzean bidaltzen da.\n\nBidalitako informazioa
   <string name="preview_version_title">Bertsioa</string>
   <string name="preview_country_title">Herrialdea</string>
   <string name="preview_carrier_title">Operadorea</string>
-  <string name="stats_collection_title">Estatistikak biltzea</string>
-  <string name="stats_collection_summary">Baimendu instalazioen ezarpenak eta gailuen estatistikak jasotzea</string>
   <!-- Display : Rotation  -->
   <string name="accelerometer_title">Auto-biratu pantaila</string>
   <string name="display_rotation_title">Biratzearen ezarpenak</string>
