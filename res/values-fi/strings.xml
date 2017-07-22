@@ -238,6 +238,12 @@
   <string name="camera_double_tap_power_gesture_desc">Avaa kamera nopeasti avaamatta laitteen näyttöä</string>
   <string name="torch_long_press_power_gesture_title">Paina pitkään käynnistääksesi taskulampun</string>
   <string name="torch_long_press_power_gesture_desc">Aktivoi taskulamppu painamalla virtanäppäintä pitkään näytön ollessa pois päältä</string>
+  <string name="torch_long_press_power_timeout_title">Sulje taskulamppu automaattisesti</string>
+  <string name="torch_long_press_power_timeout_never">Ei koskaan</string>
+  <string name="torch_long_press_power_timeout_1min">1 minuutti</string>
+  <string name="torch_long_press_power_timeout_2min">2 minuuttia</string>
+  <string name="torch_long_press_power_timeout_5min">5 minuuttia</string>
+  <string name="torch_long_press_power_timeout_10min">10 minuuttia</string>
   <!-- Profiles -->
   <string name="profile_menu_delete_title">Poista</string>
   <string name="profile_action_none">Poistu tallentamatta</string>
@@ -451,6 +457,7 @@
   <string name="anonymous_statistics_warning">LineageOS-tilastojen käyttöönotto mahdollistaa anonyymien tietojen lähettämisen LineageOSin kehittäjille, jotta laitteiden järjestelmäasennuksia voidaan seurata. Tiedot sisältävät yksilöllisen tunnisteen, joka ei vaaranna henkilökohtaisia tietojasi. Tietoja lähetetään jokaisella uudelleenkäynnistyskerralla.\n\nValitse Esikatsele tietoja nähdäksesi, millaisia tietoja laitteestasi lähetetään.</string>
   <string name="enable_reporting_title">Ota raportointi käyttöön</string>
   <string name="preview_data_title">Esikatsele tietoja</string>
+  <string name="view_stats_title">Näytä tilastot</string>
   <string name="anonymous_learn_more">Lue lisää</string>
   <!-- Anonymous Statistics - Preview -->
   <string name="preview_id_title">Yksilöllinen tunniste</string>
@@ -458,6 +465,8 @@
   <string name="preview_version_title">Versio</string>
   <string name="preview_country_title">Valtio</string>
   <string name="preview_carrier_title">Operaattori</string>
+  <string name="stats_collection_title">Tilastojen keräys</string>
+  <string name="stats_collection_summary">Salli asennus- ja laitteen tietojen kerääminen</string>
   <!-- Display : Rotation  -->
   <string name="accelerometer_title">Näytön automaattinen kierto</string>
   <string name="display_rotation_title">Asennon asetukset</string>

@@ -176,7 +176,7 @@
   <string name="hardware_keys_action_split_screen">分割視窗</string>
   <string name="hardware_keys_action_single_handed_left">單手模式 (左)</string>
   <string name="hardware_keys_action_single_handed_right">單手模式 (右)</string>
-  <string name="camera_sleep_on_release_title">窺視螢幕</string>
+  <string name="camera_sleep_on_release_title">預覽螢幕</string>
   <string name="camera_sleep_on_release_summary">僅有當按住按鍵時，半按即可保持螢幕開啟。</string>
   <string name="camera_launch_title">開啟相機</string>
   <string name="camera_launch_summary">按住並放開將會啟動相機</string>
@@ -238,6 +238,12 @@
   <string name="camera_double_tap_power_gesture_desc">快速開啟相機，無需解鎖螢幕</string>
   <string name="torch_long_press_power_gesture_title">長按開啟手電筒</string>
   <string name="torch_long_press_power_gesture_desc">當螢幕關閉時長按電源鍵啟動手電筒</string>
+  <string name="torch_long_press_power_timeout_title">自動關閉手電筒</string>
+  <string name="torch_long_press_power_timeout_never">永不</string>
+  <string name="torch_long_press_power_timeout_1min">1 分鐘</string>
+  <string name="torch_long_press_power_timeout_2min">2 分鐘</string>
+  <string name="torch_long_press_power_timeout_5min">5 分鐘</string>
+  <string name="torch_long_press_power_timeout_10min">10 分鐘</string>
   <!-- Profiles -->
   <string name="profile_menu_delete_title">刪除</string>
   <string name="profile_action_none">保持不變</string>
@@ -452,6 +458,7 @@
         該資料在每次開機時被提交。\n\n輕觸預覽資料以預覽被提交資料的範例。</string>
   <string name="enable_reporting_title">啟用報告</string>
   <string name="preview_data_title">預覽資料</string>
+  <string name="view_stats_title">檢視統計</string>
   <string name="anonymous_learn_more">了解更多</string>
   <!-- Anonymous Statistics - Preview -->
   <string name="preview_id_title">識別 ID</string>
@@ -459,6 +466,8 @@
   <string name="preview_version_title">版本</string>
   <string name="preview_country_title">國家/地區</string>
   <string name="preview_carrier_title">電信業者</string>
+  <string name="stats_collection_title">統計資料收集</string>
+  <string name="stats_collection_summary">允許收集安裝指標和裝置統計資訊</string>
   <!-- Display : Rotation  -->
   <string name="accelerometer_title">自動旋轉螢幕</string>
   <string name="display_rotation_title">旋轉設定</string>
@@ -522,7 +531,7 @@
   <!-- Gestures: Touchscreen gestures -->
   <string name="touchscreen_gesture_settings_title">觸控螢幕手勢</string>
   <string name="touchscreen_gesture_settings_summary">執行各種觸控螢幕手勢以進行快速動作</string>
-  <string name="touchscreen_gestures_haptic_feedback_title">觸覺回饋</string>
+  <string name="touchscreen_gestures_haptic_feedback_title">觸控震動</string>
   <string name="touchscreen_gestures_haptic_feedback_summary">檢測到觸控螢幕手勢時震動</string>
   <string name="touchscreen_gesture_two_finger_down_swipe_title">用兩根手指向下滑動</string>
   <string name="touchscreen_gesture_one_finger_up_swipe_title">用一根手指向上滑動</string>

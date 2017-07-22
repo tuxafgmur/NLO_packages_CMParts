@@ -238,6 +238,12 @@
   <string name="camera_double_tap_power_gesture_desc">Quickly open camera without unlocking your screen</string>
   <string name="torch_long_press_power_gesture_title">Long press for torch</string>
   <string name="torch_long_press_power_gesture_desc">Activate the torch by long pressing the power button while the display is off</string>
+  <string name="torch_long_press_power_timeout_title">Automatically turn torch off</string>
+  <string name="torch_long_press_power_timeout_never">Never</string>
+  <string name="torch_long_press_power_timeout_1min">1 minute</string>
+  <string name="torch_long_press_power_timeout_2min">2 minutes</string>
+  <string name="torch_long_press_power_timeout_5min">5 minutes</string>
+  <string name="torch_long_press_power_timeout_10min">10 minutes</string>
   <!-- Profiles -->
   <string name="profile_menu_delete_title">Delete</string>
   <string name="profile_action_none">Leave unchanged</string>
@@ -453,6 +459,7 @@
         which does not compromise your privacy or personal data. The data is submitted during each boot.\n\nFor an example of the data that is submitted, tap on Preview Data.</string>
   <string name="enable_reporting_title">Enable reporting</string>
   <string name="preview_data_title">Preview data</string>
+  <string name="view_stats_title">View stats</string>
   <string name="anonymous_learn_more">Learn more</string>
   <!-- Anonymous Statistics - Preview -->
   <string name="preview_id_title">Unique ID</string>
@@ -460,6 +467,8 @@
   <string name="preview_version_title">Version</string>
   <string name="preview_country_title">Country</string>
   <string name="preview_carrier_title">Carrier</string>
+  <string name="stats_collection_title">Stats collection</string>
+  <string name="stats_collection_summary">Allow installation metrics and device statistics to be collected</string>
   <!-- Display : Rotation  -->
   <string name="accelerometer_title">Auto-rotate screen</string>
   <string name="display_rotation_title">Rotation settings</string>

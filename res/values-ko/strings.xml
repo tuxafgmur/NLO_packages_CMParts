@@ -238,6 +238,12 @@
   <string name="camera_double_tap_power_gesture_desc">화면 잠금을 해제하지 않고 빠르게 카메라 열기</string>
   <string name="torch_long_press_power_gesture_title">길게 눌러 손전등 켜기</string>
   <string name="torch_long_press_power_gesture_desc">화면이 꺼져 있을 때 전원 버튼을 길게 눌러 손전등 켜기</string>
+  <string name="torch_long_press_power_timeout_title">자동으로 손전등 끄기</string>
+  <string name="torch_long_press_power_timeout_never">끄지 않음</string>
+  <string name="torch_long_press_power_timeout_1min">1분</string>
+  <string name="torch_long_press_power_timeout_2min">2분</string>
+  <string name="torch_long_press_power_timeout_5min">5분</string>
+  <string name="torch_long_press_power_timeout_10min">10분</string>
   <!-- Profiles -->
   <string name="profile_menu_delete_title">삭제</string>
   <string name="profile_action_none">변경하지 않음</string>
@@ -451,6 +457,7 @@
   <string name="anonymous_statistics_warning">LineageOS 통계를 사용하면 장치 고유의 설치 상태를 추적하기 위해 개인 정보를 포함하지 않은 정보가 LineageOS의 개발자에게 전송됩니다. 정보는 매번 부팅할 때마다 전송됩니다.\n\n전송되는 정보를 보려면 데이터 미리보기를 누르세요.</string>
   <string name="enable_reporting_title">보고 사용</string>
   <string name="preview_data_title">데이터 미리보기</string>
+  <string name="view_stats_title">통계 보기</string>
   <string name="anonymous_learn_more">더 알아보기</string>
   <!-- Anonymous Statistics - Preview -->
   <string name="preview_id_title">고유 ID</string>
@@ -458,6 +465,8 @@
   <string name="preview_version_title">버전</string>
   <string name="preview_country_title">국가</string>
   <string name="preview_carrier_title">통신사</string>
+  <string name="stats_collection_title">통계 수집</string>
+  <string name="stats_collection_summary">설치 메트릭 및 기기 통계 수집 허용</string>
   <!-- Display : Rotation  -->
   <string name="accelerometer_title">화면 자동 회전</string>
   <string name="display_rotation_title">회전 설정</string>
